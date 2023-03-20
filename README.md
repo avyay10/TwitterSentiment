@@ -17,7 +17,7 @@ The methodology for this project is straightforward and can be easily replicated
 - Tweepy (Python library for accessing the Twitter API)
 - Pandas (Python library for data manipulation)
 - NLTK (Python library for natural language processing)
-- Vader (pre-trained sentiment analysis model)
+
 
 ## Results and Discussion
 The results of this project will depend on the dataset of tweets collected and the sentiment analysis model used. However, the goal of this project is not to achieve state-of-the-art performance on sentiment analysis but rather to provide a dead simple example of how predictive analytics can be used for sentiment analysis on Twitter data.
